@@ -1,0 +1,3 @@
+[submodule "octopilot-test-submodule"]
+	path = octopilot-test-submodule
+	url = git@github.com:jashandeep-sohi/octopilot-test-submodule.git
